@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BlackTravel.iml" filepath="$PROJECT_DIR$/.idea/BlackTravel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../黑马旅游网资料/travel/travel.iml" filepath="$PROJECT_DIR$/../黑马旅游网资料/travel/travel.iml" />
+    </modules>
+  </component>
+</project>
